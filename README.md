@@ -15,10 +15,13 @@
 * Express
 * mongoose
 * dotenv
+* Postman
 
 `mongoose => database is used for storing user data`
 
 `dotenv => package is used for keeping our sensitive information in a separate file not accessed by anyone`
+
+`Postman => To check API`
 
 # File And Folder Structure
 
